@@ -14,5 +14,5 @@ IMPORTANT:
 - Forward of call to human operator
 - multi lingual
 
-NICE TO HAVE
+NICE TO HAVE:
 - Generation of a code that stores equivalent information to the QR code
