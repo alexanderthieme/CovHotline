@@ -1,5 +1,5 @@
 # CovHotline
-An automatic hotline service where users can dial-in and answer SARS-CoV-2 related questionnaires, get a recommendation and code to speed up processes at the hospital.
+An automatic hotline service where users can dial-in and answer SARS-CoV-2 related questionnaires, get a recommendation and generation of a code to speed up processes at the hospital.
 
 Requirements for version 1.0:
 
