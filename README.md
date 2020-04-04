@@ -13,6 +13,8 @@ IMPORTANT:
 - Detection of users who are not able to use the service
 - Forward of call to human operator
 - multi lingual
+- Generation of a short code which contains the answers of the patient and which is feasible to be written on a piece of paper
 
 NICE TO HAVE:
-- Generation of a code that stores equivalent information to the QR code
+- Fault tolerance of code (e.g. reed solomon encoding)
+
